@@ -1,0 +1,23 @@
+[
+    {
+        "student_id": 4,
+        "name": "Ali",
+        "age": 24,
+        "course": "Bscs",
+        "marks": {
+            "En": 48.0,
+            "Maths": 45.0,
+            "Oop": 60.0
+        }
+    },
+    {
+        "student_id": 5,
+        "name": "Ayesha",
+        "age": 23,
+        "course": "Bba",
+        "marks": {
+            "Eng": 68.0,
+            "Isl": 43.0
+        }
+    }
+]
